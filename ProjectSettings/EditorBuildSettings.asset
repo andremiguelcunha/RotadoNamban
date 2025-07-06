@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Rota do Namban/1/Cena 1.unity
+    guid: 78918e0b3b547114aa0cc8ae434a31e0
+  - enabled: 1
+    path: Assets/Rota do Namban/2/Cena 2.unity
+    guid: 4cfbee88dd013e04082173b9cd5b99c1
+  - enabled: 1
+    path: Assets/Rota do Namban/3/Cena 3.unity
+    guid: dc93ac258b83fc247acfb740b4967cfa
+  - enabled: 1
+    path: Assets/Rota do Namban/4/Cena 4.unity
+    guid: b11eb4357a9de5b428b58625dd71e881
+  - enabled: 1
+    path: Assets/Rota do Namban/Sobre/Sobre.unity
+    guid: 0759f778fd7f41f4bb06d0955c858398
+  - enabled: 1
+    path: Assets/Rota do Namban/5/Cena 5.unity
+    guid: b870abef603a7724c8c947f477baee57
+  - enabled: 1
+    path: Assets/Rota do Namban/Target1/Cena 6.unity
+    guid: 62f9a1c53b05eef48b66779d0963da8c
+  - enabled: 0
+    path: Assets/Rota do Namban/7/Cena 7.unity
+    guid: 51e759acf574c374db9f121604eb6c17
+  - enabled: 1
+    path: Assets/Rota do Namban/8/Cena 8.unity
+    guid: b77f7a1fa24cf444ba2bc48059891738
+  - enabled: 1
+    path: "Assets/Rota do Namban/Jogo Mem\xF3ria/JogoMemoria.unity"
+    guid: 7c39f457332e2134da4351c98e80571b
+  - enabled: 1
+    path: "Assets/Rota do Namban/\xC1baco/Explicacao1.unity"
+    guid: f32e24ce19ad8fd419433990f5ee811b
+  - enabled: 1
+    path: "Assets/Rota do Namban/\xC1baco/VidAbaco.unity"
+    guid: 8cbb579d669def2478e10d9600610439
+  - enabled: 1
+    path: "Assets/Rota do Namban/\xC1baco/Explicacao2.unity"
+    guid: db8361c899a67cf439c9b008fb597129
+  - enabled: 1
+    path: "Assets/Rota do Namban/\xC1baco/Abaco.unity"
+    guid: 1bb0247a1451c02418bb76cc9470fe8e
+  - enabled: 1
+    path: Assets/Rota do Namban/DiariodeBordo/Diario1.unity
+    guid: 1b530f7f6824a3b44b78b82591043e7c
+  - enabled: 1
+    path: Assets/Rota do Namban/9/Cena 9.unity
+    guid: 255fb651e8f15214aa68c651fb42fb38
+  - enabled: 1
+    path: Assets/Rota do Namban/10/Cena 10.unity
+    guid: 7a14abf84c3edd14d80bd240670798a7
+  - enabled: 1
+    path: Assets/Rota do Namban/11/Cena 11.unity
+    guid: 9a3a659725fbb4a449e123e6fd191058
+  - enabled: 1
+    path: Assets/Rota do Namban/12/Cena 12.unity
+    guid: 55024f8bd1838ed42bc3285eeaaf5bea
+  - enabled: 1
+    path: Assets/Rota do Namban/13/Cena 13.unity
+    guid: 96a4ebeed93c40d4988dcced7e2da414
+  - enabled: 1
+    path: Assets/Rota do Namban/14/Cena 14.unity
+    guid: 05d0b7b32552de84a819a2d32fe7c83b
+  - enabled: 1
+    path: Assets/Rota do Namban/JogoQuizz/Cena 15.unity
+    guid: ce61f163b33715d4ea1a4428f0352f09
+  - enabled: 1
+    path: Assets/Rota do Namban/15/Cena 16.unity
+    guid: cfe297ee68323224c812b3314099c2b8
+  - enabled: 1
+    path: Assets/Rota do Namban/16/Cena 17.unity
+    guid: bcdd986bd484d8d41984fea585422d75
+  - enabled: 1
+    path: Assets/Rota do Namban/17/Cena 18.unity
+    guid: 31e5e176aa8b22d4a8f94e26d2eb4b37
+  - enabled: 1
+    path: Assets/Rota do Namban/JogoSom/Cena 19.unity
+    guid: ee8ec2f25fdff934c8e466b64927eb53
+  - enabled: 1
+    path: Assets/Rota do Namban/20/Cena 20.unity
+    guid: 0d55dc1baf2e0554f8d9fd0d73bd54b4
+  - enabled: 1
+    path: Assets/Rota do Namban/21/Cena 21.unity
+    guid: bc805ac70f2376b4f86f91e77f46efff
+  - enabled: 1
+    path: Assets/Rota do Namban/Menu1/Menu1.unity
+    guid: 7103cd80f865cd54ba54289165509300
+  - enabled: 1
+    path: Assets/Rota do Namban/JogoVddFalso/JogoVF.unity
+    guid: fce7ab6323c9c6549bed7273cb440439
+  - enabled: 1
+    path: Assets/Rota do Namban/Inventario/Inventario.unity
+    guid: e66498a8c90c3714fae2f743e133a17e
+  - enabled: 1
+    path: Assets/Rota do Namban/Target2/Target2.unity
+    guid: 753e23e8624e78343b0e7d1df35c5f2c
+  - enabled: 1
+    path: Assets/Rota do Namban/Target3/Target3.unity
+    guid: ce586e789dc6d2b488dad6d340e93696
+  - enabled: 1
+    path: Assets/Rota do Namban/Target5/Target5.unity
+    guid: 65624fb53bddb6b46af17801f5e0dcc9
+  - enabled: 1
+    path: Assets/Rota do Namban/Target4/Target4.unity
+    guid: b5d2c80a3689d064ba333cacec6f5a96
+  - enabled: 1
+    path: Assets/Rota do Namban/22/Cena 22.unity
+    guid: e5f6c6c26d78a4a4d94bbda52c0e9a05
+  - enabled: 1
+    path: Assets/Rota do Namban/VideoFinal/VideoFinal.unity
+    guid: 6e93102be44dcc1479ec60fe73824951
+  - enabled: 1
+    path: Assets/Rota do Namban/CenaPedir/CenaPedir.unity
+    guid: fa76ce4babcb75b40be1dab6313451f4
+  - enabled: 0
+    path: Assets/Rota do Namban/Menu2/Menu2.unity
+    guid: ace0d8a851ff67844b6b711a915e1135
+  - enabled: 1
+    path: Assets/Rota do Namban/FIM/FIM.unity
+    guid: 4ae3e881cbc72d24e865b9df17ee91bd
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ec9edd19473f82441a5a7e4d863fba85, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 45a6a621116227d4183db4a39e66f81d, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7d274b6191c834743ae5f8bec8842af5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 111fe7b554d71f14e9b54de51e90c12e, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,2 @@
+C:\Users\Nizuri\Desktop\TRiago\unity-ar-image-tracking-example-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Nizuri\Desktop\TRiago\unity-ar-image-tracking-example-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt

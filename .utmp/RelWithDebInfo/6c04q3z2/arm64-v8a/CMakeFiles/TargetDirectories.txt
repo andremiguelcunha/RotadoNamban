@@ -1,0 +1,5 @@
+D:/jogo/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/6c04q3z2/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/jogo/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/6c04q3z2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/jogo/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/6c04q3z2/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/jogo/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/6c04q3z2/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/jogo/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/6c04q3z2/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

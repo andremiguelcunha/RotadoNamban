@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6aff2878282c1b84a840436ea7cdbb78
+timeCreated: 1491328149
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89253
+  packageName: Scale (PBR)
+  packageVersion: 1.1
+  assetPath: Assets/PBR Scale/Demo/DemoScean1.unity
+  uploadId: 252766

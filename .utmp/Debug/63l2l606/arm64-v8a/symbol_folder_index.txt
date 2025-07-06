@@ -1,0 +1,1 @@
+C:\Users\Nizuri\Desktop\TRiago\unity-ar-image-tracking-example-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\63l2l606\obj\arm64-v8a

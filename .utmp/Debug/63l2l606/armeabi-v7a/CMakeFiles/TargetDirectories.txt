@@ -1,0 +1,5 @@
+C:/Users/Nizuri/Desktop/TRiago/unity-ar-image-tracking-example-main/.utmp/Debug/63l2l606/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Nizuri/Desktop/TRiago/unity-ar-image-tracking-example-main/.utmp/Debug/63l2l606/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Nizuri/Desktop/TRiago/unity-ar-image-tracking-example-main/.utmp/Debug/63l2l606/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Nizuri/Desktop/TRiago/unity-ar-image-tracking-example-main/.utmp/Debug/63l2l606/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Nizuri/Desktop/TRiago/unity-ar-image-tracking-example-main/.utmp/Debug/63l2l606/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
